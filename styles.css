@@ -1,0 +1,27 @@
+
+body {
+    background-image: url('challenger.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-image img {
+    width: 900px;
+    height: auto;
+}
+
+
